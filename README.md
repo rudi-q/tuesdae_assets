@@ -29,11 +29,16 @@ Perfect for traffic games, simulations, and educational apps. Designed with acce
 
 ## 🎮 Quick Start
 
+```bash
+flutter pub add tuesdae_assets
+```
+OR
+
 Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  tuesdae_assets: ^1.0.0
+  tuesdae_assets: ^1.0.1
 ```
 
 ### Basic Usage
