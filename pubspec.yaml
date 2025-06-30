@@ -1,0 +1,24 @@
+name: tuesdae_assets
+description: User-friendly animated vehicle widgets for Flutter with clear visuals and predictable animations. Perfect for traffic games, simulations, and educational apps. Features emergency vehicles, tractors, school buses with realistic effects.
+version: 1.0.0
+homepage: https://github.com/rudi-q/tuesdae_assets
+repository: https://github.com/rudi-q/tuesdae_assets
+issue_tracker: https://github.com/rudi-q/tuesdae_assets/issues
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  # This ensures that the material Icons font is included with your application.
+  uses-material-design: true
